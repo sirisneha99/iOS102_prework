@@ -3,11 +3,15 @@
 ### App Description
 
 Through this app, users get to:
-- Introduce themselves by entering their full names ans the university they attend
+- Introduce themselves by entering their full names and the university they attend
 - There's an option to see if and how many pets a student has
-- A swirch to check if the user wants more pets 
+- A switch to check if the user wants more pets 
 
-### App Walk-though
+### App Walk-through
+
+[![Watch the video](https://raw.githubusercontent.com/sirisneha99/iOS102_prework/main/Thumbnail.png)](https://raw.githubusercontent.com/sirisneha99/iOS102_prework/main/prework.mov)
+
+
 
 
 
