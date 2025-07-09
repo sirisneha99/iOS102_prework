@@ -1,0 +1,23 @@
+## APP Name - "INTRODUCE YOURSELF"
+
+### App Description
+
+Through this app, users get to:
+- Introduce themselves by entering their full names ans the university they attend
+- There's an option to see if and how many pets a student has
+- A swirch to check if the user wants more pets 
+
+### App Walk-though
+
+
+
+<!-- <img src="YOUR_GIF_URL_HERE" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
+
+
+- [x] 1. App displays an image of a school's logo
+- [x] 2. App has three textfields for first, last, and school names
+- [x] 3. App has a segmented control that changes student year
+- [x] 4. Number of pet matches label is increased/decreased by stepper
+- [x] 5. Switch makes a statement about wanting more pets or not(true/false) 
+- [x] 6. Introduce yourself button shows alert box with an introduciton and dismiss button
+
